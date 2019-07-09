@@ -2,7 +2,7 @@
 An embedded solution to e-governance and vehicle management on the road.  
 college project for final year in MIT, Manipal    
   
-This project is meant to run on the ESP32 using the arduino IDE. It uses embedded sensors like Ultrasonic distance sensor (SR04), Real Time Clock (DS3231) and a GSM+GPS module (SIM808) along with Blynk.io to achieve communication between 2 ESP32s. This projects measures speed of vehicles, parking status and overspeeding. For more information, the final year project report pdf is uploaded to /project_pdf if you are interested to read the whole project.
+This project is meant to run on the ESP32 using the arduino IDE. It uses embedded sensors like Ultrasonic distance sensor (SR04), Real Time Clock (DS3231) and a GSM+GPS module (SIM808) along with Blynk.io to achieve communication between 2 ESP32s. This projects measures speed of vehicles, parking status and overspeeding. 
   
     
       
